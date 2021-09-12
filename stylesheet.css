@@ -3,13 +3,13 @@
   text-align: center;
   margin: 50px;
   background-color:rgb(206, 206, 206);
+  font-size: 40px;
 }
 .header p {
     color: rgb(0, 0, 0)
 }
 table {
-    font-size: 25px;
+    font-size: 30px;
     margin: auto;
     text-align: center;
 }
-
